@@ -1,11 +1,10 @@
 # REACT Native
 
-
-```
-Opcional
-```
+## Opcional
 
 ### Abrir o emulador do android studio
 
+## npm install
 
 ### expo start
+
