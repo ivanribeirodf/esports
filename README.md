@@ -1,10 +1,10 @@
 # REACT Native
 
-## Opcional
+### npm install --global expo-cli
 
 ### Abrir o emulador do android studio
 
-## npm install
+### npm install
 
 ### expo start
 
