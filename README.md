@@ -18,4 +18,3 @@
 🔹 npm install
 
 🔹 expo start
-
