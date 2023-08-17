@@ -23,7 +23,7 @@ export default function App() {
         barStyle="light-content" 
         backgroundColor="transparent" 
         translucent />
-      { fontsLoaded ? <Home /> : <Loading /> } 
+      {fontsLoaded ? <Home /> : <Loading /> } 
     </Background>
   );
 }
